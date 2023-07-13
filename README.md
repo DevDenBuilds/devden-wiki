@@ -1,7 +1,7 @@
 # DevDen Wiki
 This is still in development.
 
-[**Live Demo →**](https://devden-wiki.vercel.app/)
+[**Live Demo →**](https://devden-wiki.netlify.app/)
 
 ## License
 

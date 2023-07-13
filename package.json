@@ -16,7 +16,7 @@
     "name": "its-ag"
   },
   "license": "MIT",
-  "homepage": "https://devden-wiki.vercel.app/",
+  "homepage": "https://devden-wiki.netlify.app/",
   "dependencies": {
     "next": "^13.4.9",
     "nextra": "latest",
