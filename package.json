@@ -1,7 +1,8 @@
 {
-  "name": "nextra-docs-template",
+  "name": "devden-wiki",
   "version": "0.0.1",
-  "description": "Nextra docs template",
+  "description": "A wiki compiled by members of DevDen",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -9,16 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shuding/nextra-docs-template.git"
+    "url": "git+https://github.com/DevDenBuilds/devden-wiki.git"
   },
-  "author": "Shu Ding <g@shud.in>",
+  "author": {
+    "name": "its-ag"
+  },
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/shuding/nextra-docs-template/issues"
-  },
-  "homepage": "https://github.com/shuding/nextra-docs-template#readme",
+  "homepage": "https://devden-wiki.vercel.app/",
   "dependencies": {
-    "next": "^13.0.6",
+    "next": "^13.4.9",
     "nextra": "latest",
     "nextra-theme-docs": "latest",
     "react": "^18.2.0",
@@ -26,6 +26,6 @@
   },
   "devDependencies": {
     "@types/node": "18.11.10",
-    "typescript": "^4.9.3"
+    "typescript": "^4.9.5"
   }
 }
